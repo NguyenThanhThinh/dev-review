@@ -1,0 +1,6 @@
+.vs/ 
+
+appsettings.json
+appsettings.Development.json
+PROJECT_SEM3/obj/*
+PROJECT_SEM3/bin/*
